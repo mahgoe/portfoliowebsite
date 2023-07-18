@@ -9,7 +9,7 @@ To recreate and run this website on your local machine follow these steps (I use
 
 Download the sourcecodes and have fun with it!
 
-#
+## About the developer
 
 I'm a newbie in coding, so thats why I coded with help from a YouTube-Video from [Codehal](https://www.google.com).
 
