@@ -1,7 +1,5 @@
 # Responsive Portfolio Website
 
-## Demo Highlights 🎥
-
 ## Getting Started 🚀
 To recreate and run this website on your local machine follow these steps (I used VSC):
 
